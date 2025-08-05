@@ -8,6 +8,12 @@ torch 1.4.0\
 torchvision 0.5.0
 
 
+## Get Dataset and Paper
+- Download the [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html), [VGGFace](https://www.dropbox.com/s/bqsimq20jcjz1z9/VGG_ALL_FRONTAL.zip?dl=0)
+- Latest Paper List [Audio-visual matching](https://github.com/w1018979952/Audio-Visual-Matching)
+
+
+## Contact
 If you think this toolkit or the results are helpful to you and your research, please cite us!
 
 If you are interested in our mission, you can contact us for data sharing.
